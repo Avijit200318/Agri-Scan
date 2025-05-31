@@ -1,8 +1,8 @@
-# Yield Smart
+# Agri Scan
 
 ## Overview
 
-YieldSmart is a comprehensive agricultural solution encompassing both a web platform and an Android mobile application. This integrated system leverages IoT technology and artificial intelligence to empower farmers with tools for effective crop management and disease diagnosis. By combining the convenience of a mobile app with the analytical capabilities of a web platform, YieldSmart offers farmers a seamless and versatile solution to optimize their farming practices.
+Agri Scan is a comprehensive agricultural solution encompassing both a web platform and an Android mobile application. This integrated system leverages IoT technology and artificial intelligence to empower farmers with tools for effective crop management and disease diagnosis. By combining the convenience of a mobile app with the analytical capabilities of a web platform, Agri Scan offers farmers a seamless and versatile solution to optimize their farming practices.
 
 ## Table of Contents
 - [Features](#features)
